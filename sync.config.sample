@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY_ID=foo
+AWS_SECRET_ACCESS_KEY=bar
+host=test.blabla.config.ifactor.mobi
+files='config2_appv1_ios_test.json config2_appv1_android_test.json'
